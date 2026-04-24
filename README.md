@@ -4,7 +4,40 @@ Este taller está diseñado para introducir a los estudiantes en los conceptos d
 
 ## Estudiante
 
-Cuenta: [@tu_cuenta_github]
+Lina Chamorro  
+Estudiante de Ingeniería de Sistemas – Uniremington
+
+# Usuario: [life151]
+## Estructura del taller
+lpa1-taller-poo-lina/
+│── main.py
+│── ui/
+│   └── menu.py
+│── models/
+│   ├── mueble.py
+│   ├── categorias/
+│   │   ├── asientos.py
+│   │   ├── superficies.py
+│   │   └── almacenamiento.py
+│   ├── concretos/
+│   │   ├── silla.py
+│   │   ├── mesa.py
+│   │   ├── sofa.py
+│   │   ├── cama.py
+│   │   ├── sofacama.py
+│   │   ├── armario.py
+│   │   ├── cajonera.py
+│   │   ├── escritorio.py
+│   │   └── sillon.py
+│   └── composicion/
+│       └── comedor.py
+│── services/
+│   ├── tienda.py
+│   └── catalogo.py
+│── tests/
+│   ├── test_muebles.py
+│   ├── test_composicion.py
+│   └── test_tienda.py
 
 ## Objetivos
 
